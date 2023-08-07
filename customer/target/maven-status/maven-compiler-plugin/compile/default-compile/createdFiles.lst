@@ -1,0 +1,8 @@
+com\gufrancode\customer\CustomerRepository.class
+com\gufrancode\customer\CustomerController.class
+com\gufrancode\customer\Customer$CustomerBuilder.class
+com\gufrancode\customer\Customer.class
+com\gufrancode\customer\CustomerConfig.class
+com\gufrancode\customer\CustomerRegistrationRequest.class
+com\gufrancode\customer\CustomerApplication.class
+com\gufrancode\customer\CustomerService.class

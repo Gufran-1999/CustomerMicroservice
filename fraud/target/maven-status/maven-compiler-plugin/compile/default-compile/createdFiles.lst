@@ -1,0 +1,6 @@
+com\gufrancode\fraud\FraudCheckHistory.class
+com\gufrancode\fraud\FraudCheckService.class
+com\gufrancode\fraud\FraudApplication.class
+com\gufrancode\fraud\FraudCheckHistory$FraudCheckHistoryBuilder.class
+com\gufrancode\fraud\FraudController.class
+com\gufrancode\fraud\FraudCheckHistoryRepository.class

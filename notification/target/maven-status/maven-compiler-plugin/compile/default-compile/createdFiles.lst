@@ -1,0 +1,8 @@
+com\gufrancode\notification\NotificationController.class
+com\gufrancode\notification\NotificationService.class
+com\gufrancode\notification\NotificationConfig.class
+com\gufrancode\notification\NotificationRepository.class
+com\gufrancode\notification\NotificationApplication.class
+com\gufrancode\notification\NotifiactionEntity$NotifiactionEntityBuilder.class
+com\gufrancode\notification\rabbitmq\NotificationConsumer.class
+com\gufrancode\notification\NotifiactionEntity.class

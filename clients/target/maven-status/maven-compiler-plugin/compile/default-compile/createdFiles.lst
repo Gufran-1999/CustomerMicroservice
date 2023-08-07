@@ -1,0 +1,4 @@
+com\gufrancode\clients\notification\NotificationClient.class
+com\gufrancode\clients\notification\NotificationRequest.class
+com\gufrancode\clients\fraud\FraudClient.class
+com\gufrancode\clients\fraud\FraudCheckResponse.class
